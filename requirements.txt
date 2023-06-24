@@ -1,0 +1,8 @@
+matplotlib==3.4.3
+opencv-python==4.5.3.56
+easyocr==1.4
+numpy==1.21.4
+pylab==0.1.4
+ipython==7.28.0
+pdf2image==1.16.0
+
