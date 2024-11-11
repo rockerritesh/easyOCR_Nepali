@@ -1,4 +1,5 @@
-# easyOCR_Nepali
+
+# easyOCR_Nepali [APP HERE](https://rockerritesh-nepali-ocr-2199e02.hf.space/)
 Here in this repository I have made a simple python code that will detect Nepali words in a Image. 
 > result <br>
 ![result](https://github.com/rockerritesh/easyOCR_Nepali/blob/main/ocr.png)
